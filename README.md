@@ -1,3 +1,3 @@
-### Templates fuer Lehrkraefte:
+### Templates für Lehrkräfte:
 * OmniGraffle
 * OmniOutliner
