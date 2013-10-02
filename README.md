@@ -1,3 +1,3 @@
-### Templates for:
+### Templates fuer Lehrkraefte:
 * OmniGraffle
 * OmniOutliner
