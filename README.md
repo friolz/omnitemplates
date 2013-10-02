@@ -1,0 +1,3 @@
+### Templates for:
+* OmniGraffle
+* OmniOutliner
